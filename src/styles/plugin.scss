@@ -1,0 +1,34 @@
+/*
+ * Copyright (c) 2017, Jon McClure <jmcclure@politico.com>
+ *
+ * License: MIT
+ */
+
+/*
+ * YOUR STYLES HERE
+ */
+div.ad-unit-figure{
+  .block__data{
+    padding: 0 50px 20px;
+    margin-top: -35px;
+  }
+  .block__input{
+    text-align: center;
+    font-size: 18px;
+  }
+  textarea:hover,
+  input:hover,
+  textarea:active,
+  input:active,
+  textarea:focus,
+  input:focus,
+  button:focus,
+  button:active,
+  button:hover,
+  label:focus,
+  .btn:active,
+  .btn.active {
+    outline:0px !important;
+    -webkit-appearance:none;
+  }
+}
