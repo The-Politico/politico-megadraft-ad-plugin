@@ -2,6 +2,13 @@
 
 ## Usage
 
+
+Include the plugin styles in scss.
+
+```css
+@import "../src/styles/plugin.scss";
+```
+
 Include the plugin in the `plugins` prop of your `Megadraft` instance.
 
 ```js
